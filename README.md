@@ -1,4 +1,5 @@
 ### Calculating the weekly salary
+Programming Language: Python
 
 We must calculate the salary of any number of employees given a text file with its data. 
 
